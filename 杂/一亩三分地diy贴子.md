@@ -1,0 +1,10 @@
+https://www.1point3acres.com/bbs/thread-80717-1-1.html
+
+***
+
+感觉没有错的可能啊只要文件夹建的有体系1学校的文件夹;11CV(每个学校都一样其实但是根据逻辑还是这么分了)12PS(每个学校果断不能一样而且文件名上也要体现出来)13RL(三个RL的格式题头内容重点不能一样)2TranscriptsandCertificate/Diploma21原稿(扫了个40M的)22300DPI版23200DPI版24黑白版(有个学校要传黑白的--)3一个EXCEL表格记录每个CREDENTIALS的STATUS联系方式链接这些东西在正式申请前就应该做好才能防止之后慌乱PS上传的文件要把名字写上补充内容(2014-1-1610:35):PS在文件名字上要体现出申请人的姓名和学校的名字这样查起来容易
+
+***
+
+waive right to view it
+
