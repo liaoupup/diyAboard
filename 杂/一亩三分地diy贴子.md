@@ -6,5 +6,4 @@ https://www.1point3acres.com/bbs/thread-80717-1-1.html
 
 ***
 
-waive right to view it
-
+看pic文件夹，图片太麻烦了

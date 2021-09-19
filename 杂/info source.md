@@ -30,3 +30,7 @@ Free apps that provide a system for learning academic words. Each app includes t
 
 The **[Purdue Online Writing Lab](https://owl.english.purdue.edu/owl/section/5/25/)** provides a series of resources and tips for ESL students working in North America. Explore many areas of interest, including *Tips for writing in North American Colleges*, *Plagiarism and ESL Writers*, *Writing for a North American Business Audience*, and *Key concepts for writing in North American Colleges*.
 
+***
+
+# [7 Successful Statement of Purpose Examples](https://www.prepscholar.com/gre/blog/graduate-school-statement-of-purpose-sample/)
+
