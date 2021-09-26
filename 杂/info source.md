@@ -34,3 +34,11 @@ The **[Purdue Online Writing Lab](https://owl.english.purdue.edu/owl/section/5/2
 
 # [7 Successful Statement of Purpose Examples](https://www.prepscholar.com/gre/blog/graduate-school-statement-of-purpose-sample/)
 
+# [statement-of-purpose-vs-personal-statement](https://www.prepscholar.com/gre/blog/statement-of-purpose-vs-personal-statement/)
+
+### [课程描述](http://bbs.gter.net/thread-2211651-1-1.html)
+
+### [北欧攻略](http://bbs.gter.net/thread-2236942-1-2.html)
+
+### [SOP](http://cwfletcher.net/Pages/SoP.php)
+

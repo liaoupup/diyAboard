@@ -245,3 +245,7 @@ ps范文在网页
 * 可能有院系的官网
 * 看的仔细。
 * 
+
+### [Writing a Statement of Purpose](https://www.cs.umd.edu/grad/writing-statement-of-pupose)
+
+马里兰大学SOP写作指导
