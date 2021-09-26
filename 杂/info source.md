@@ -1,6 +1,6 @@
 * wb DIY申请辅导员 崔钟博汶cook
 * 公众号：北欧留学 我们在瑞典留学
-* 论坛 一亩三分地 寄托天下 小木虫
+* 论坛 一亩三分地 寄托天下 小木虫 寄托家园
 
 ## WEBSITES AND PHONE APPS FOR ENGLISH LEARNERS
 
@@ -33,4 +33,10 @@ The **[Purdue Online Writing Lab](https://owl.english.purdue.edu/owl/section/5/2
 ***
 
 # [7 Successful Statement of Purpose Examples](https://www.prepscholar.com/gre/blog/graduate-school-statement-of-purpose-sample/)
+
+***
+
+### [quora上的essay](https://www.quora.com/What-essay-got-you-into-an-Ivy-League-and-or-a-school-with-a-20-acceptance-rate-or-lower)
+
+[diy辅导员评价](https://weibo.com/6229389330/GhFrTfWEc?type=comment#_rnd1632127665869)
 
