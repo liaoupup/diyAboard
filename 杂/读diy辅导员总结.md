@@ -244,6 +244,7 @@ ps范文在网页
 
 * 可能有院系的官网
 * 看的仔细。
+<<<<<<< HEAD
 
 
 
@@ -281,3 +282,10 @@ ps范文在网页
 
 讲了开头和结尾
 
+=======
+* 
+
+### [Writing a Statement of Purpose](https://www.cs.umd.edu/grad/writing-statement-of-pupose)
+
+马里兰大学SOP写作指导
+>>>>>>> 51a320fdbb1bc06b0684e15d441481ad9c84435d

@@ -34,9 +34,19 @@ The **[Purdue Online Writing Lab](https://owl.english.purdue.edu/owl/section/5/2
 
 # [7 Successful Statement of Purpose Examples](https://www.prepscholar.com/gre/blog/graduate-school-statement-of-purpose-sample/)
 
+<<<<<<< HEAD
 ***
 
 ### [quora上的essay](https://www.quora.com/What-essay-got-you-into-an-Ivy-League-and-or-a-school-with-a-20-acceptance-rate-or-lower)
 
 [diy辅导员评价](https://weibo.com/6229389330/GhFrTfWEc?type=comment#_rnd1632127665869)
+=======
+# [statement-of-purpose-vs-personal-statement](https://www.prepscholar.com/gre/blog/statement-of-purpose-vs-personal-statement/)
+
+### [课程描述](http://bbs.gter.net/thread-2211651-1-1.html)
+
+### [北欧攻略](http://bbs.gter.net/thread-2236942-1-2.html)
+
+### [SOP](http://cwfletcher.net/Pages/SoP.php)
+>>>>>>> 51a320fdbb1bc06b0684e15d441481ad9c84435d
 
